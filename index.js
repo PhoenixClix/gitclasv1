@@ -16,4 +16,4 @@ console.table({'name'})
 // Type in the following command and press “Enter”. rm -rf .git
 // This will delete the entire git repository and undo the changes made by the init command.
 
-
+// You can remove a directory using rmdir directoryname.
